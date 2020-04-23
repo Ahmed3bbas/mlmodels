@@ -15,7 +15,7 @@ With the goal to transform Script/Research code into re-usable batch/code with m
 A collection of Deep Learning and Machine Learning research papers is available in this repository.
 
 
-![alt text](mxnetf.png) ![alt text](pytorch.PNG) ![alt text](tenserflow.PNG)
+![alt text](docs/mxnetf.png) ![alt text](docs/pytorch.PNG) ![alt text](docs/tenserflow.PNG)
 
 ## Benefits :
 
