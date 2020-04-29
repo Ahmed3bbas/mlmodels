@@ -399,7 +399,7 @@ class NumpyDataset(Dataset):
             file_name = data_pars['train_file_name']
         else:
             file_name = data_pars['test_file_name']
-        data      = np.load(os.path.join("mlmodels", root, file_name))
+        data      = np.load(os.path.join(root, file_name))
         self.features = data[data_pars['features_key']]
         self.classes = data[data_pars['classes_key']]
 

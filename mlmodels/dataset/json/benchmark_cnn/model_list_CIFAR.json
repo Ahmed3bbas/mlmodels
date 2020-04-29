@@ -20,7 +20,7 @@
             "epoch": 2
         },
         "data_pars": {
-            "dataset"  : "mlmodels/preprocess/generic.py:NumpyDataset:CIFAR10",
+            "dataset"  : "../mlmodels/preprocess/generic.py:NumpyDataset:CIFAR10",
             "data_path": "dataset/vision/cifar10/",
             "train_samples":2000,
             "test_samples":500,
